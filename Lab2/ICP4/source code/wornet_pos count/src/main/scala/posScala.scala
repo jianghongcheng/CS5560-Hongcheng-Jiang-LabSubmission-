@@ -4,9 +4,9 @@ import rita.RiWordNet
 /**
   * Created by Mayanka on 26-06-2017.
   */
-object wordnet {
+object posScala {
   def main(args: Array[String]): Unit = {
-    System.setProperty("hadoop.home.dir", "D:\\winutils")
+    System.setProperty("hadoop.home.dir", "C:\\winutils")
     val conf = new SparkConf().setAppName("WordNetSpark").setMaster("local[*]").set("spark.driver.memory", "4g").set("spark.executor.memory", "4g")
     val sc = new SparkContext(conf)
 
@@ -14,7 +14,7 @@ object wordnet {
     //    val data=sc.textFile("data/abstracts")
     //
     //    val dd=data.flatMap(line=>{
-    //      val wordnet = new RiWordNet("D:\\WordNet-3.0")
+    //      val wordnet = new RiWordNet("C:\\Programming\\KMD\\ICP\\WordNet-3.0")
     //      val wordSet=line.split(" ")
     //      val synarr=wordSet.map(word=>{
     //        if(wordnet.exists(word))
@@ -39,10 +39,10 @@ object wordnet {
     val wc=input.flatMap(line=>{line.split(" ")}).map(word=>{
       val wordnet = new RiWordNet("D:\\WordNet-3.0")
       if (wordnet.exists(word))
+      //  print("1")
         (word,1)
       else
         (word,0)
-
     }).cache()
 
     val output=wc.reduceByKey(_+_)
