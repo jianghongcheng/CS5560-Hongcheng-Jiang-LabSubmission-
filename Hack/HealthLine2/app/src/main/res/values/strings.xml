@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HealthLine2</string>
+    <string-array name="languages">
+        <item>Dentistry</item>
+        <item>Internal medicine</item>
+        <item>surgical</item>
+        <item>Otolaryngology</item>
+        <item>Ophthalmology</item>
+        <item>Gynecology</item>
+        <item>dermatology</item>
+    </string-array>
+</resources>
