@@ -17,7 +17,7 @@ object TF_IDF {
 
     //Reading the Text File
   //  val documents = sc.textFile("data/Article.txt")
-  val input_folder = sc.wholeTextFiles("F:\\5560\\abstract\\medical")
+  val input_folder = sc.wholeTextFiles("data")
     val documents = input_folder.map(abs=>{
       abs._2
     })

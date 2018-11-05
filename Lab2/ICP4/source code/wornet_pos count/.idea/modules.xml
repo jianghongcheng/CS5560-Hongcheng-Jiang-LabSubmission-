@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wornet_pos-count-build.iml" filepath="$PROJECT_DIR$/.idea/modules/wornet_pos-count-build.iml" />
     </modules>
   </component>
 </project>

@@ -6,7 +6,7 @@ import rita.RiWordNet
   */
 object posScala {
   def main(args: Array[String]): Unit = {
-    System.setProperty("hadoop.home.dir", "C:\\winutils")
+    System.setProperty("hadoop.home.dir", "D:\\winutils")
     val conf = new SparkConf().setAppName("WordNetSpark").setMaster("local[*]").set("spark.driver.memory", "4g").set("spark.executor.memory", "4g")
     val sc = new SparkContext(conf)
 
@@ -14,7 +14,7 @@ object posScala {
     //    val data=sc.textFile("data/abstracts")
     //
     //    val dd=data.flatMap(line=>{
-    //      val wordnet = new RiWordNet("C:\\Programming\\KMD\\ICP\\WordNet-3.0")
+    //      val wordnet = new RiWordNet("D:\\WordNet-3.0")
     //      val wordSet=line.split(" ")
     //      val synarr=wordSet.map(word=>{
     //        if(wordnet.exists(word))

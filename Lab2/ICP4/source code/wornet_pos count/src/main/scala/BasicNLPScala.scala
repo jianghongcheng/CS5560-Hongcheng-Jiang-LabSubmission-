@@ -24,14 +24,7 @@ object BasicNLPScala{
     val wc=input.map(line=>{BasicNLP.returnpos(line)}).cache()
     wc.collect()
 
-//    val output=wc.reduceByKey(_+_)
-//    output.saveAsTextFile("output1")
-//    val o=output.collect()
-//    var s:String="Words:Count \n"
-//    o.foreach{
-//      case(word,count)=>{
-//        s+=word+" : "+count+"\n"
-//      }}
+
 
 
 

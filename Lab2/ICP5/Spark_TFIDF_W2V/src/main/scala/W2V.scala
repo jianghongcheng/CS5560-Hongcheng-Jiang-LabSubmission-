@@ -17,7 +17,7 @@ object W2V {
     val sc = new SparkContext(sparkConf)
 //reading the text file
 
-    val input_folder = sc.wholeTextFiles("F:\\5560\\abstract\\medical")
+    val input_folder = sc.wholeTextFiles("data")
     val documents = input_folder.map(abs=>{
       abs._2
     })
@@ -33,7 +33,7 @@ object W2V {
 
     if (modelFolder.exists()) {
       val sameModel = Word2VecModel.load(sc, "myModelPath")
-      val synonyms = sameModel.findSynonyms("well", 40)
+      val synonyms = sameModel.findSynonyms("high", 40)
 
       for ((synonym, cosineSimilarity) <- synonyms) {
         println(s"$synonym $cosineSimilarity")
