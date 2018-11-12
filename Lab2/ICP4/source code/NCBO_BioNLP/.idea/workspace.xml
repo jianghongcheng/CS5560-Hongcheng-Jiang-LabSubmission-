@@ -2,89 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2113eec8-370e-4de5-bed6-a9587cff02e0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../wornet_pos count/.idea/modules/wornet_pos-count-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/.idea/modules/Lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/.idea/modules/Lab1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/.idea/modules/lab1-build.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wornet_pos count/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$7d09ee2cf1bf439b0685$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$7d09ee2cf1bf439b0685.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$7d09ee2cf1bf439b0685.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$9cc5accbca24cdb8a0bd$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$9cc5accbca24cdb8a0bd.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$9cc5accbca24cdb8a0bd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$a8a4eebc09c6aa892924$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$a8a4eebc09c6aa892924.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$a8a4eebc09c6aa892924.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$c3cab06f1c2b432eef71$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$c3cab06f1c2b432eef71.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$c3cab06f1c2b432eef71.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$c4c09075edd481fc00c0$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$c4c09075edd481fc00c0.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/config-classes/$c4c09075edd481fc00c0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/src/main/scala/BasicNLPScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/src/main/scala/BasicNLPScala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/src/main/scala/posScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/src/main/scala/posScala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/src/main/scala/wordnet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/src/main/scala/wordnet.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/scala-2.11/classes/wordnet$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wornet_pos count/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../wornet_pos count/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/data/abs_5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/src/main/scala/W2V.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/src/main/scala/W2V.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/src/main/scala/W2V.scala___jb_tmp___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -212,8 +132,9 @@
     <session id="807607077">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -243,8 +164,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/bionlpscala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="77">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -316,8 +237,8 @@
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="3456" />
-    <option name="height" value="1416" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -393,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538282535473" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541718869171" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -450,6 +371,33 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SubmitSparkJob_Configuration" factoryName="HDInsight Spark">
+      <spark-job-configuration>
+        <local-run>
+          <spark-local-run-configurable-model>
+            <is-parallel-execution>false</is-parallel-execution>
+            <is-pass-parent-envs>true</is-pass-parent-envs>
+            <program-parameters />
+            <working-directory>file://$PROJECT_DIR$</working-directory>
+            <envs>
+              <map />
+            </envs>
+            <vm-parameters />
+            <main-class />
+            <data-root>file://$PROJECT_DIR$/data</data-root>
+          </spark-local-run-configurable-model>
+        </local-run>
+        <spark_submission cluster_name="" is_local_artifact="false" artifact_name="" classname="">
+          <job_conf />
+          <cmd_line_args />
+          <ref_jars />
+          <ref_files />
+        </spark_submission>
+      </spark-job-configuration>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -530,16 +478,18 @@
       <workItem from="1538271733387" duration="3726000" />
       <workItem from="1538281926577" duration="505000" />
       <workItem from="1538547534283" duration="553000" />
+      <workItem from="1541711966586" duration="1028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5650000" />
+    <option name="totallyTimeSpent" value="6678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="3456" height="1416" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15047114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38880485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -549,7 +499,7 @@
       <window_info id="Azure Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5397816" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.53934425" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -640,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bionlpscala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="77">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
