@@ -1,5 +1,0 @@
-Species,nudeMice
-Species,patients
-Species,women
-Species,human
-Species,patient

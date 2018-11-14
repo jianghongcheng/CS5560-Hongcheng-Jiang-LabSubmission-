@@ -1,3 +1,0 @@
-frequentlyOverexpressedIn,Gene,Disease,Func
-overexpressedIn,Gene,Disease,FuncfrequentlyOverexpressedIn,Gene,Other,Func
-overexpressedIn,Gene,Other,Func
